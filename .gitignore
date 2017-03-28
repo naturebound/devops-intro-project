@@ -1,4 +1,8 @@
 .DS_Store
 packer_cache
+packer-templates/aws/
+packer-templates/aws_access_info/
+packer-templates/packer_cache/
 packer-templates/virtualbox/
-devops-kungfu/
+devops-kungfu/output/
+output/
